@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<markers>
+	<marker 
+		name="Casa" 
+		lat="45.50389" 
+		lng="12.25922" 
+		category="Restaurant" 
+		address="Via san dona 142" 
+		address2="" 
+		city="Mestre" 
+		state="IT" 
+		postal="30174" 
+		phone="3470562322" 
+		web="http://www.kludge.it" 
+		hours1="Sempre" 
+		hours2="" 
+		hours3="" 
+	/>
+	<marker 
+		name="Marchetto" 
+		lat="45.50360" 
+		lng="12.25695" 
+		category="Restaurant" 
+		address="Via borgo nuovo 5" 
+		address2="" 
+		city="Mestre" 
+		state="IT" 
+		postal="30174" 
+		phone="3470562322" 
+		web="http://www.kludge.it" 
+		hours1="Sempre" 
+		hours2="" 
+		hours3="" 
+	/>
+	
+</markers>

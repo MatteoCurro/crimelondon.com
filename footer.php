@@ -120,7 +120,7 @@
 
     } else if ($('.sfondo').length>0) {
 
-        $('.sfondo').maximage(); 
+        // $('.sfondo').maximage(); 
 
     }
 

@@ -11,8 +11,17 @@ get_header(); ?>
 		<?php if( $attachments->exist() ) : ?>
 
 		    <?php while( $attachments->get() ) : ?>
-	  			<div class="sfondo">
-			    	<img src="<?php echo $attachments->src( 'full' ); ?>">
+	  			<div class="sfondo" style="background-image: url(http://www.crimelondon.com/wp-content/uploads/contact.jpg);
+background-size: contain;
+background-position: top left;
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-repeat: no-repeat;
+z-index: -1">
+			    	<!-- <img src="<?php echo $attachments->src( 'full' ); ?>"> -->
 	    		</div>
 			<?php endwhile; ?>
 

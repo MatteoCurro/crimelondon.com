@@ -137,6 +137,10 @@
 				<!-- <div class="fb-like" data-colorscheme="dark" data-href="https://www.facebook.com/crimefashion" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div> -->
 				<a href="http://www.facebook.com/crimefashion"><img src="<?php bloginfo('template_directory'); ?>/img/facebook.png" alt=""></a>
 			</div>
+				<!-- youtube -->
+			<div class="youtube">
+				<a href="http://www.youtube.com/user/CrimeFashion"><img src="<?php bloginfo('template_directory'); ?>/img/youtube.png" alt=""></a>
+			</div>
 				<!-- pinterest -->
 			<div class="pinterest">
 				<a href="http://www.pinterest.com/crimelondon/"><img src="<?php bloginfo('template_directory'); ?>/img/pinterest.png" alt=""></a>
